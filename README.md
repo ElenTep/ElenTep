@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Elena Teplyakova
 
-<!--
-**ElenTep/ElenTep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Cybersecurity Analyst | CompTIA CySA+, A+, Splunk Core Certified  
+🔍 Passionate about threat detection, network forensics, and real-world incident response  
+🛠️ Hands-on projects: Wireshark analysis, SOC simulations, malware traffic investigation  
+🌱 Currently learning: OSINT, advanced Splunk, and packet analysis  
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/elena-tepliakova-732a662a5/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Recent Project: **Wireshark Network Forensics**  
+🔗 [View project](https://github.com/ElenTep/wireshark-network-forensics)  
+📄 Simulated breach investigation: C2 detection, DNS beaconing, SMB lateral movement  
